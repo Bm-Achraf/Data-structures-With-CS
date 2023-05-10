@@ -1,0 +1,15 @@
+/home/achraf/Documents/LEARN/C#/DataStructer/bin/Debug/net6.0/DataStructer
+/home/achraf/Documents/LEARN/C#/DataStructer/bin/Debug/net6.0/DataStructer.deps.json
+/home/achraf/Documents/LEARN/C#/DataStructer/bin/Debug/net6.0/DataStructer.runtimeconfig.json
+/home/achraf/Documents/LEARN/C#/DataStructer/bin/Debug/net6.0/DataStructer.dll
+/home/achraf/Documents/LEARN/C#/DataStructer/bin/Debug/net6.0/DataStructer.pdb
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.csproj.AssemblyReference.cache
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.GeneratedMSBuildEditorConfig.editorconfig
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.AssemblyInfoInputs.cache
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.AssemblyInfo.cs
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.csproj.CoreCompileInputs.cache
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.dll
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/refint/DataStructer.dll
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.pdb
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/DataStructer.genruntimeconfig.cache
+/home/achraf/Documents/LEARN/C#/DataStructer/obj/Debug/net6.0/ref/DataStructer.dll
