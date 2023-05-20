@@ -10,7 +10,6 @@ class queue<T>{
 
     public void EnQueue(T val){
 
-        
         nodes = new Node<T>(){value=val, next=nodes};
 
     }
